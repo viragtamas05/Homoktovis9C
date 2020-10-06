@@ -1,0 +1,1 @@
+#Homoktövis feladat megoldása
